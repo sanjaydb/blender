@@ -1,0 +1,25 @@
+. FIle -> New -> Video Editing 
+. Save *.blend file.
+
+. Frame Start, Frame End
+. Output
+. File Format -> FFmpeg Video
+. Encodeing -> Containerr -> MPEG4
+. Video -> Output quality -> perceptually lossless
+
+. Add Movie
+. Proxy & Cache Tab -> checl 'Strip Proxy & Timecode -> select 25% -> Rebuild Proxy
+. Preview panel -> 'N' -> Proxy Render Size : Proxy size 25%
+. 
+
+G = Grab 
+X = Delete
+K = Cut 
+Ctrl  +12 = Render clip
+
+
+Time Lapse
+----------
+select Video Clip 
+Add -> Effect Speed -> Speed Control .
+5 
